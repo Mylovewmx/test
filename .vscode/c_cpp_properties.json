@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:\\Qt\\files\\Tools\\mingw1120_64\\bin\\gcc.exe" //这里请更换成自己电脑上所存的 mingw 下的 g++.exe路径，并将路径中的 \ 换为 \\
+        }
+    ],
+    "version": 4
+}
